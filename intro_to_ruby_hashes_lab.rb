@@ -26,7 +26,7 @@ def my_hash_creator(key, value)
   name = {
     "Grace Hopper" => 32
   }
-  name["Grace Hopper"]
+  return name
 end
 
 
