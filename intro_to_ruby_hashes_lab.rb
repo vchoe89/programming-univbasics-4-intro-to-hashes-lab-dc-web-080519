@@ -24,6 +24,10 @@ end
 
 def my_hash_creator(key, value)
   person = {
+    name:"Grace Hopper"
+    age: 31
+  }
+  
 end
 
 def read_from_hash(hash, key)
