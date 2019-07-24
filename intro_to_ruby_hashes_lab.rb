@@ -23,11 +23,10 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  person = {
-    name:"Grace Hopper",
-    age: 31
-  }
-  person[:name]
+  my_hash_creator => {
+    :names => {
+      :
+    
 end
 
 def read_from_hash(hash, key)
