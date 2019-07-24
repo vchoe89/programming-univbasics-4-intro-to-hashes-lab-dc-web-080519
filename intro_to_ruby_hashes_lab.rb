@@ -23,9 +23,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  name = {
-    :name => "Grace Hopper"
-  }
+  key = :name
   name
 end
 
