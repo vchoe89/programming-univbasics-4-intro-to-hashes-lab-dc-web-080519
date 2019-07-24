@@ -26,9 +26,10 @@ def my_hash_creator(key, value)
   key = {
     :name => "Grace Hopper",
   }
-  value = { :age => 32
+  value = { 
+    :age => 32
   }
-  return key
+  return key[value]
 end
 
 
