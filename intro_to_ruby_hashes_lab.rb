@@ -25,7 +25,7 @@ end
 def my_hash_creator(key, value)
   key = :name
   user_info = {:name =>"Grace Hopper"}
-  user_info
+  user_info[key]
 end
 
 def read_from_hash(hash, key)
