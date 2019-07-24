@@ -23,7 +23,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  name = {
+  person = {
     "key" => "Grace Hopper"
     }
   
