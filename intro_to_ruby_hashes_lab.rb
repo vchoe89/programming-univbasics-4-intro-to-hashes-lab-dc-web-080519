@@ -24,6 +24,7 @@ end
 
 def my_hash_creator(key, value)
   key = :name
+  user_info
   name
 end
 
