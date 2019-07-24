@@ -24,8 +24,7 @@ end
 
 def my_hash_creator(key, value)
   person = {
-    name: "Grace Hopper",
-    age: 32
+    name: key,
     }
   person
 end
