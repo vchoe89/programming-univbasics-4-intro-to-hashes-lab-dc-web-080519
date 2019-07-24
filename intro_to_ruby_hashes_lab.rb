@@ -23,10 +23,10 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
-  my_hash_creator = {
+  name = {
     "Grace Hopper" => 32
   }
-  my_hash_creator["Grace Hopper"]
+  name["Grace Hopper"]
 end
 
 
