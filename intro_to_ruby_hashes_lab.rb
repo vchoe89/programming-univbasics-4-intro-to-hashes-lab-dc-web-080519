@@ -26,9 +26,6 @@ end
 
 def my_hash_creator(key, value)
   binding.pry
-  person = {
-    key =>  ,
-    }
   person
 end
 
