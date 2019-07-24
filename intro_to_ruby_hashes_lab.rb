@@ -27,7 +27,7 @@ def my_hash_creator(key, value)
     name:"Grace Hopper",
     age: 31
   }
-  
+  person[:name]
 end
 
 def read_from_hash(hash, key)
