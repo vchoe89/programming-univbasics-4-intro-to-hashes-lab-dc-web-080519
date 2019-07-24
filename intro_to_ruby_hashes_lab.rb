@@ -1,4 +1,4 @@
-
+require 'pry'
 
 def new_hash
   new_hash = {}
@@ -25,6 +25,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
+  binding.pry
   person = {
     key =>  ,
     }
